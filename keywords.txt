@@ -1,0 +1,46 @@
+#######################################
+# Syntax Coloring Map For SGCP3
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SGPC3	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getProductType	KEYWORD2
+getVersion	KEYWORD2
+lowPower	KEYWORD2
+ultraLowPower	KEYWORD2
+selfTest	KEYWORD2
+setBaselineValue	KEYWORD2
+getFactoryBaseline	KEYWORD2
+initSGPC3	KEYWORD2
+isInitialized	KEYWORD2
+setPowerMode	KEYWORD2
+setAbsHumidityCompensation	KEYWORD2
+disableAbsHumidityCompensation	KEYWORD2
+measureIAQ	KEYWORD2
+getTVOC	KEYWORD2
+getLastMeasureTimestamp	KEYWORD2
+getBaseline	KEYWORD2
+getBaselineValue	KEYWORD2
+getError	KEYWORD2
+remainingWaitTimeMS	KEYWORD2
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+LT_5_MIN	LITERAL1
+LT_1_HOUR	LITERAL1
+LT_24_HOUR	LITERAL1
+LT_1_WEEK	LITERAL1
+LT_FOREVER	LITERAL1
+
